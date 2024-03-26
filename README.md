@@ -1,6 +1,6 @@
 # Smart Pot with Humidity Sensor
 
-![Pot](blob:https://devinci-my.sharepoint.com/9cf0d9e7-6e1a-454f-bdfe-a82baa097ea0)
+![Pot](https://devinci-my.sharepoint.com/9cf0d9e7-6e1a-454f-bdfe-a82baa097ea0)
 *Image showing the smart pot*
 
 ## Introduction
