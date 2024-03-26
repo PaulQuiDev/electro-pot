@@ -1,6 +1,6 @@
 # Smart Pot with Humidity Sensor
 
-![Pot](https://devinci-my.sharepoint.com/9cf0d9e7-6e1a-454f-bdfe-a82baa097ea0)
+![Pot](https://github.com/PaulQuiDev/electro-pot/assets/80120197/7587777b-2a06-4812-b339-4faeae566c55)
 *Image showing the smart pot*
 
 ## Introduction
