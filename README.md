@@ -1,13 +1,13 @@
 # Smart Pot with Humidity Sensor
 
-![Pot](https://github.com/PaulQuiDev/electro-pot/assets/80120197/7587777b-2a06-4812-b339-4faeae566c55)
+![Pot](https://github.com/PaulQuiDev/electro-pot/assets/80120197/d8b9706d-b092-42dd-8b55-2ff1fff8b3d2)
 *Image showing the smart pot*
 
 ## Introduction
 
 This project involves the creation of a smart pot equipped with a humidity sensor. The humidity sensor consists of two copper plates where the conductivity of water completes the circuit. The variation in conductivity is measured using a voltage divider with a 5 kΩ resistor, and the sensor's resistance ranges from 1 ohm to 7 kΩ. The humidity sensor has a capacitance of 9 nF, hence a DC current measurement approach is employed, and an RC filter is not used for conductivity measurement.
 
-![Humidity Sensor](humidity_sensor_image.jpg)
+![Humidity Sensor](https://github.com/PaulQuiDev/electro-pot/assets/80120197/18db774f-4adc-482a-9384-bd08676a609e)
 *Image showing the humidity sensor*
 
 ## Circuit Characteristics
@@ -23,7 +23,7 @@ This project involves the creation of a smart pot equipped with a humidity senso
 - **GPIO Ports**: 
   - GPIO ports must be used for detection.
 
-![LEDs](blob:https://devinci-my.sharepoint.com/1f169ad7-0af5-4699-a379-69f7f65e8381)
+![LEDs](https://github.com/PaulQuiDev/electro-pot/assets/80120197/7587777b-2a06-4812-b339-4faeae566c55)
 *Image showing the LEDs*
 
 ## Setup
