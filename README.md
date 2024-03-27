@@ -23,7 +23,7 @@ This project involves the creation of a smart pot equipped with a humidity senso
 - **GPIO Ports**: 
   - GPIO ports must be used for detection.
 
-![LEDs](https://github.com/PaulQuiDev/electro-pot/assets/80120197/7587777b-2a06-4812-b339-4faeae566c55)
+![LEDs](https://github.com/PaulQuiDev/electro-pot/assets/80120197/c06666c0-e92f-4729-9dd5-5cc1347b9584)
 *Image showing the LEDs*
 
 ## Setup
