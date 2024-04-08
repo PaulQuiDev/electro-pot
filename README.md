@@ -44,7 +44,7 @@ This project involves the creation of a smart pot equipped with a humidity senso
 
 This project was inspired by the need for efficient plant care through automated humidity monitoring.
 
-##electrical diagram
+## Electrical diagram
 
 ![ElecPot](https://github.com/PaulQuiDev/electro-pot/assets/80120197/1e97cf06-ea0e-4af2-95cd-985a0702852d)
 - The potentiometer acts as the humidity sensor
